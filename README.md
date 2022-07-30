@@ -32,11 +32,12 @@ From faculty of Suez Institute for Management Information Systems, Suez, Overall
 
 ### 2. Backend  [Freelancing] - [Topart](https://topart.services/)
 > A site for car parts with a chat and control panel for sellers.
-* Edit Database
-* Add chat(munafio/chatify) to the application & Edit it To satisfy our application needs.
-* Handling most of the Frontend work
-* Making CRUDs
-* Making RESTful API 
+
+1. Edit Database
+2. Add chat(munafio/chatify) to the application & Edit it To satisfy our application needs.
+3. Handling most of the Frontend work
+4. Making CRUDs
+5. Making RESTful API 
 
 **Technologies-Packages used** 
     - [laravel](https://laravel.com/)
@@ -47,9 +48,10 @@ From faculty of Suez Institute for Management Information Systems, Suez, Overall
 
 ### 3. Backend  [Test] for [o-porjects](https://www.o-projects.org/)
 > Making restaurant reservation APIs.
-* Making ERM 
-* Making CRUD - & reservations Considering reservations dates 
-* Writing API documentation
+
+    1. Making ERM 
+    2. Making CRUD - & reservations Considering reservations dates 
+    3. Writing API documentation
 
 
 ### 4. Full Stack  [Training] for [Cinema Devotion](https://moviesarea.hassaneida.com/)

@@ -40,28 +40,34 @@ A site for car parts with a chat and control panel for sellers.
 - [metronic](https://keenthemes.com/metronic/)
 - [chatify](https://github.com/munafio/chatify)
 
+
 ### 3. Backend  [Test] for [o-porjects](https://www.o-projects.org/)
 Making restaurant reservation APIs.
 - Making ERM 
 - Making CRUD - & reservations Considering reservations dates 
 - Writing API documentation
 
+
 ### 4. Full Stack  [Training] for [Cinema Devotion](https://moviesarea.hassaneida.com/)
 A site about movies and series news,
 Using TMDB API
+
 **Technologies-Packages used** 
 - [laravel](https://laravel.com/)
 - [Livewire](https://laravel-livewire.com/)
 - [alpinejs](https://alpinejs.dev/)
+
 ### 5. Full Stack  [Training] for [AlaSalaty](https://www.salah.hassaneida.com/ranking)
 Creating website to track prayers and users gaining points for every pray they do,
 with leaderboard for all users with thier level and points
+
 **Technologies-Packages used** 
 - [laravel](https://laravel.com/)
 - [Livewire](https://laravel-livewire.com/)
 
 ### 6. Full Stack  [Training] for [Covid-19 Tracker](https://covid19tracker.hassaneida.com/)
 SPA website for tracking covid Cases and deaths 
+
 **Technologies-Packages used** 
 - [Vuejs](https://vuejs.org/)
 

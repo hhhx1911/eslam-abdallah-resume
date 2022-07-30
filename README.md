@@ -79,9 +79,12 @@ SPA website for tracking covid Cases and deaths
 ## Technical skills 📚
 - laravel
 - Livewire
-- HTML - CSS
+- HTML ,CSS ,Sass
+- Bootstrap
+- Tailwindcss
+- JavaScript , Jquery
 - MySQL
-- laravel
-- laravel
-- laravel
-- laravel
+- Github
+- RESTful API
+- Database Design
+

@@ -28,10 +28,10 @@ From faculty of Suez Institute for Management Information Systems, Suez, Overall
 a multi-tenancy [Store] website, Users can register to make thier own  sub-domain, Making/Providing dashboard for them to have full control of the website.
 
 **Technologies-Packages used** 
-- [laravel](https://laravel.com/)
-- [Livewire](https://laravel-livewire.com/)
-- [tenancyforlaravel](https://tenancyforlaravel.com/saas-boilerplate/)
-- [Hesabe Payment](https://www.hesabe.com/)
+    - [laravel](https://laravel.com/)
+    - [Livewire](https://laravel-livewire.com/)
+    - [tenancyforlaravel](https://tenancyforlaravel.com/saas-boilerplate/)
+    - [Hesabe Payment](https://www.hesabe.com/)
 
 
 ### 2. Backend  [Freelancing] - [Topart](https://topart.services/)
@@ -43,10 +43,10 @@ A site for car parts with a chat and control panel for sellers.
 - Making RESTful API 
 
 **Technologies-Packages used** 
-- [laravel](https://laravel.com/)
-- [Livewire](https://laravel-livewire.com/)
-- [metronic](https://keenthemes.com/metronic/)
-- [chatify](https://github.com/munafio/chatify)
+    - [laravel](https://laravel.com/)
+    - [Livewire](https://laravel-livewire.com/)
+    - [metronic](https://keenthemes.com/metronic/)
+    - [chatify](https://github.com/munafio/chatify)
 
 
 ### 3. Backend  [Test] for [o-porjects](https://www.o-projects.org/)

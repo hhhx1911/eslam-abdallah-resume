@@ -88,6 +88,7 @@ From faculty of Suez Institute for Management Information Systems, Suez, Overall
 - Github
 - RESTful API
 - Database Design
+
 <br>
 
 ## Languages 💬

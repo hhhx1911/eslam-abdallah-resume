@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/eslamabdallah74/my-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
+Full Name: Eslam Abdallah Abass
+Date of Birth: 6th of October 1996
+Nationality: Egypt
+Marital Status: Single
+Location: Faysal, Suez, Egypt
 
 ### Markdown
 

@@ -1,6 +1,6 @@
 # Welcome to Eslam abdallah resume
 
-### About Me
+## About Me
 
 ```
 Full Name:       Eslam Abdallah Abass 
@@ -11,29 +11,39 @@ Location:        Faysal, Suez, Egypt
 Email:           eslamabdallah301@gmail.com
 phone number:    +201026236600
 ```
-### EDUCATION
+## EDUCATION
 
 **Bachelor’s Degree in Bachelor of Information Systems and administrative**
 From faculty of Suez Institute for Management Information Systems, Suez, Overall Grade: Very Good
 
 ## PROFESSIONAL EXPERIENCE
 
-### 1. Full Stack Developer at [Iksib]
+### 1. Full Stack  at [Iksib]
 a multi-tenancy website, using Stancl\Tenancy package to make custom sub-domains, Making/Providing dashboard for admin to have full control of his website and using Hesabe Payment gateway
 
-### 2. Backend Developer [Freelancing] - [Topart]
+### 2. Backend  [Freelancing] - [Topart](https://topart.services/)
 A site for car parts with a chat and control panel for sellers.
 - Edit Database
 - Add chat(munafio/chatify) to the application & Edit it To satisfy our application needs.
 - Handling most of the Frontend work
 - Making CRUDs
+- Making RESTful API 
+### 3. Backend  [Test] for [o-porjects](https://www.o-projects.org/)
+Making restaurant reservation APIs.
+- Making ERM 
+- Making CRUD - & reservations Considering reservations dates 
+- Writing API documentation
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### 4. Full Stack  [Training] for [Cinema Devotion](https://moviesarea.hassaneida.com/)
+A site about movies and series news,
+Using TMDB API
+### 5. Full Stack  [Training] for [AlaSalaty](https://www.salah.hassaneida.com/ranking)
+Creating website to track prayers and users gaining points for every pray they do,
+with leaderboard for all users with thier level and points
 
-### Jekyll Themes
+### 6. Full Stack  [Training] for [AlaSalaty](https://www.salah.hassaneida.com/ranking)
+Creating website to track prayers and users gaining points for every pray they do,
+with leaderboard for all users with thier level and points
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eslamabdallah74/my-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 7. Full Stack  [Training] for [Covid-19 Tracker](https://covid19tracker.hassaneida.com/)
+SPA[VueJs] website for tracking covid Cases and deaths 

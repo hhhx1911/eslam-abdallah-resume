@@ -87,3 +87,6 @@ From faculty of Suez Institute for Management Information Systems, Suez, Overall
 - RESTful API
 - Database Design
 
+## Languages 💬
+**Arabic**   : Native
+**Engllish** : Very Good

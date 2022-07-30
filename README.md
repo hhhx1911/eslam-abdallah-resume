@@ -30,11 +30,11 @@ a multi-tenancy [Store] website, Users can register to make thier own  sub-domai
 
 ### 2. Backend  [Freelancing] - [Topart](https://topart.services/)
 A site for car parts with a chat and control panel for sellers.
-- Edit Database
-- Add chat(munafio/chatify) to the application & Edit it To satisfy our application needs.
-- Handling most of the Frontend work
-- Making CRUDs
-- Making RESTful API 
+1- Edit Database
+2- Add chat(munafio/chatify) to the application & Edit it To satisfy our application needs.
+3- Handling most of the Frontend work
+4- Making CRUDs
+5- Making RESTful API 
 
 **Technologies-Packages used** 
     - [laravel](https://laravel.com/)

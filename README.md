@@ -1,15 +1,19 @@
 ## Welcome
 
 ### About Me
-Full Name: Eslam Abdallah Abass
-Date of Birth: 6th of October 1996
-Nationality: Egypt
-Marital Status: Single
-Location: Faysal, Suez, Egypt
 
-### Markdown
+```
+Full Name:       Eslam Abdallah Abass 
+Date of Birth:   6th of October 1996
+Nationality:     Egypt
+Marital Status:  Completed
+Location:        Faysal, Suez, Egypt
+Email:           [eslamabdallah301@gmail.com][eslamabdallah301@gmail.com]
+```
+### EDUCATION
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Bachelor’s Degree in Bachelor of Information Systems and administrative**
+From faculty of Suez Institute for Management Information Systems, Suez, Overall Grade: Very Good
 
 ```markdown
 Syntax highlighted code block

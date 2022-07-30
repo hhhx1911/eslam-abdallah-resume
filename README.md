@@ -16,7 +16,7 @@ phone number:    +201026236600
 **Bachelor’s Degree in Bachelor of Information Systems and administrative**
 From faculty of Suez Institute for Management Information Systems, Suez, Overall Grade: Very Good
 
-## PROFESSIONAL EXPERIENCE
+## PROFESSIONAL EXPERIENCE 🧑‍💼
 
 ### 1. Full Stack  @ [Iksib]
 <sub>a multi-tenancy [Store] website, Users can register to make thier own  sub-domain, Making/Providing dashboard for them to have full control of the website.</sub>
@@ -45,15 +45,14 @@ From faculty of Suez Institute for Management Information Systems, Suez, Overall
 
 
 ### 3. Backend  [Test] for [o-porjects](https://www.o-projects.org/)
-Making restaurant reservation APIs.
+<sub>Making restaurant reservation APIs.</sub>
 * Making ERM 
 * Making CRUD - & reservations Considering reservations dates 
 * Writing API documentation
 
 
 ### 4. Full Stack  [Training] for [Cinema Devotion](https://moviesarea.hassaneida.com/)
-A site about movies and series news,
-Using TMDB API
+<sub>A site about movies and series news, Using TMDB API</sub>
 
 **Technologies-Packages used** 
     - [laravel](https://laravel.com/)
@@ -61,15 +60,15 @@ Using TMDB API
     - [alpinejs](https://alpinejs.dev/)
 
 ### 5. Full Stack  [Training] for [AlaSalaty](https://www.salah.hassaneida.com/ranking)
-Creating website to track prayers and users gaining points for every pray they do,
-with leaderboard for all users with thier level and points
+<sub>Creating website to track prayers and users gaining points for every pray they do,
+with leaderboard for all users with thier level and points</sub>
 
 **Technologies-Packages used** 
     - [laravel](https://laravel.com/)
     - [Livewire](https://laravel-livewire.com/)
 
 ### 6. Full Stack  [Training] for [Covid-19 Tracker](https://covid19tracker.hassaneida.com/)
-SPA website for tracking covid Cases and deaths 
+<sub>SPA website for tracking covid Cases and deaths </sub>
 
 **Technologies-Packages used** 
     - [Vuejs](https://vuejs.org/)

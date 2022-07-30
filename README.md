@@ -1,4 +1,9 @@
 # Eslam abdallah Resume
+<picture>
+  <img alt="Eslam Abdallah image"
+   src="me.jpeg">
+</picture>
+
 
 
 ## About Me
@@ -20,7 +25,7 @@ From faculty of Suez Institute for Management Information Systems, Suez, Overall
 ## PROFESSIONAL EXPERIENCE
 
 ### 1. Full Stack  @ [Iksib]
-`a multi-tenancy [Store] website, Users can register to make thier own  sub-domain, Making/Providing dashboard for them to have full control of the website.`
+a multi-tenancy [Store] website, Users can register to make thier own  sub-domain, Making/Providing dashboard for them to have full control of the website.
 
 **Technologies-Packages used** 
 - [laravel](https://laravel.com/)

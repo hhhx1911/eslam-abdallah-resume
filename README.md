@@ -1,4 +1,4 @@
-# Welcome to Eslam abdallah resume
+# Eslam abdallah Resume
 
 ## About Me
 
@@ -18,8 +18,13 @@ From faculty of Suez Institute for Management Information Systems, Suez, Overall
 
 ## PROFESSIONAL EXPERIENCE
 
-### 1. Full Stack  at [Iksib]
-a multi-tenancy website, using Stancl\Tenancy package to make custom sub-domains, Making/Providing dashboard for admin to have full control of his website and using Hesabe Payment gateway
+### 1. Full Stack  @ [Iksib]
+a multi-tenancy [Store] website, Users can register to make thier own  sub-domain, Making/Providing dashboard for them to have full control of the website.
+**Technologies-Packages used** 
+- [laravel](https://laravel.com/)
+- [Livewire](https://laravel-livewire.com/)
+- [tenancyforlaravel](https://tenancyforlaravel.com/saas-boilerplate/)
+- [Hesabe Payment](https://www.hesabe.com/)
 
 ### 2. Backend  [Freelancing] - [Topart](https://topart.services/)
 A site for car parts with a chat and control panel for sellers.
@@ -28,6 +33,13 @@ A site for car parts with a chat and control panel for sellers.
 - Handling most of the Frontend work
 - Making CRUDs
 - Making RESTful API 
+
+**Technologies-Packages used** 
+- [laravel](https://laravel.com/)
+- [Livewire](https://laravel-livewire.com/)
+- [metronic](https://keenthemes.com/metronic/)
+- [chatify](https://github.com/munafio/chatify)
+
 ### 3. Backend  [Test] for [o-porjects](https://www.o-projects.org/)
 Making restaurant reservation APIs.
 - Making ERM 
@@ -37,13 +49,20 @@ Making restaurant reservation APIs.
 ### 4. Full Stack  [Training] for [Cinema Devotion](https://moviesarea.hassaneida.com/)
 A site about movies and series news,
 Using TMDB API
+**Technologies-Packages used** 
+- [laravel](https://laravel.com/)
+- [Livewire](https://laravel-livewire.com/)
+- [alpinejs](https://alpinejs.dev/)
 ### 5. Full Stack  [Training] for [AlaSalaty](https://www.salah.hassaneida.com/ranking)
 Creating website to track prayers and users gaining points for every pray they do,
 with leaderboard for all users with thier level and points
+**Technologies-Packages used** 
+- [laravel](https://laravel.com/)
+- [Livewire](https://laravel-livewire.com/)
 
-### 6. Full Stack  [Training] for [AlaSalaty](https://www.salah.hassaneida.com/ranking)
-Creating website to track prayers and users gaining points for every pray they do,
-with leaderboard for all users with thier level and points
+### 6. Full Stack  [Training] for [Covid-19 Tracker](https://covid19tracker.hassaneida.com/)
+SPA website for tracking covid Cases and deaths 
+**Technologies-Packages used** 
+- [Vuejs](https://vuejs.org/)
 
-### 7. Full Stack  [Training] for [Covid-19 Tracker](https://covid19tracker.hassaneida.com/)
-SPA[VueJs] website for tracking covid Cases and deaths 
+## Technical skills 

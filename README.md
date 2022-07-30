@@ -97,4 +97,7 @@ From faculty of Suez Institute for Management Information Systems, Suez, Overall
 
 ## Online Presence 🔗 
 
-- [Facebook](https://www.facebook.com/profile.php?id=100021391685332) <img alt="Facebook" src="assets/facebook.svg">
+- [Facebook](https://www.facebook.com/profile.php?id=100021391685332) <img style="width:3%" alt="Facebook" src="assets/facebook.svg"> <br>
+- [instagram](https://www.instagram.com/yomi_74/) <img style="width:3%" alt="instagram" src="assets/instagram.svg"> <br>
+- [linkedin](https://www.linkedin.com/in/eslam-abdallah-882480170/) <img style="width:3%" alt="linkedIn" src="assets/linkedIn.svg"> <br>
+

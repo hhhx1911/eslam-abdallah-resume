@@ -19,7 +19,8 @@ From faculty of Suez Institute for Management Information Systems, Suez, Overall
 ## PROFESSIONAL EXPERIENCE
 
 ### 1. Full Stack  @ [Iksib]
-a multi-tenancy [Store] website, Users can register to make thier own  sub-domain, Making/Providing dashboard for them to have full control of the website.
+<sub>a multi-tenancy [Store] website, Users can register to make thier own  sub-domain, Making/Providing dashboard for them to have full control of the website.</sub>
+
 
 **Technologies-Packages used** 
     - [laravel](https://laravel.com/)
@@ -29,7 +30,7 @@ a multi-tenancy [Store] website, Users can register to make thier own  sub-domai
 
 
 ### 2. Backend  [Freelancing] - [Topart](https://topart.services/)
-A site for car parts with a chat and control panel for sellers.
+<sub>A site for car parts with a chat and control panel for sellers.</sub>
 * Edit Database
 * Add chat(munafio/chatify) to the application & Edit it To satisfy our application needs.
 * Handling most of the Frontend work

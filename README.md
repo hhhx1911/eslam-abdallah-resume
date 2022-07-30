@@ -1,10 +1,4 @@
 # Eslam abdallah Resume
-<picture>
-  <img alt="Eslam Abdallah image"
-   src="me.jpeg">
-</picture>
-
-
 
 ## About Me
 

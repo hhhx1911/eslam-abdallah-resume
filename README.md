@@ -49,9 +49,9 @@ From faculty of Suez Institute for Management Information Systems, Suez, Overall
 ### 3. Backend  [Test] for [o-porjects](https://www.o-projects.org/)
 > Making restaurant reservation APIs.
 
-    1. Making ERM 
-    2. Making CRUD - & reservations Considering reservations dates 
-    3. Writing API documentation
+1. Making ERM 
+2. Making CRUD - & reservations Considering reservations dates 
+3. Writing API documentation
 
 
 ### 4. Full Stack  [Training] for [Cinema Devotion](https://moviesarea.hassaneida.com/)
@@ -88,7 +88,9 @@ From faculty of Suez Institute for Management Information Systems, Suez, Overall
 - Github
 - RESTful API
 - Database Design
+<br>
 
 ## Languages 💬
-**Arabic**   : Native
+
+**Arabic**   : Native 
 **Engllish** : Very Good

@@ -17,11 +17,11 @@ phone number:    +201026236600
 <br>
 From faculty of Suez Institute for Management Information Systems, Suez, Overall Grade: Very Good
 
-## PROFESSIONAL EXPERIENCE
+## PROFESSIONAL EXPERIENCE 🚀
 
 ### 1. Full Stack  @ [Iksib]
-<sub> </sub>
-a multi-tenancy [Store] website, Users can register to make thier own  sub-domain, Making/Providing dashboard for them to have full control of the website.
+> a multi-tenancy [Store] website, Users can register to make thier own  sub-domain,
+> Making/Providing dashboard for them to have full control of the website.
 
 **Technologies-Packages used** 
     - [laravel](https://laravel.com/)
@@ -77,3 +77,11 @@ SPA website for tracking covid Cases and deaths
 
 
 ## Technical skills 📚
+- laravel
+- Livewire
+- HTML - CSS
+- MySQL
+- laravel
+- laravel
+- laravel
+- laravel

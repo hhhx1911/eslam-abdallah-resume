@@ -30,11 +30,11 @@ a multi-tenancy [Store] website, Users can register to make thier own  sub-domai
 
 ### 2. Backend  [Freelancing] - [Topart](https://topart.services/)
 A site for car parts with a chat and control panel for sellers.
-1- Edit Database
-2- Add chat(munafio/chatify) to the application & Edit it To satisfy our application needs.
-3- Handling most of the Frontend work
-4- Making CRUDs
-5- Making RESTful API 
+* Edit Database
+* Add chat(munafio/chatify) to the application & Edit it To satisfy our application needs.
+* Handling most of the Frontend work
+* Making CRUDs
+* Making RESTful API 
 
 **Technologies-Packages used** 
     - [laravel](https://laravel.com/)
@@ -45,9 +45,9 @@ A site for car parts with a chat and control panel for sellers.
 
 ### 3. Backend  [Test] for [o-porjects](https://www.o-projects.org/)
 Making restaurant reservation APIs.
-- Making ERM 
-- Making CRUD - & reservations Considering reservations dates 
-- Writing API documentation
+* Making ERM 
+* Making CRUD - & reservations Considering reservations dates 
+* Writing API documentation
 
 
 ### 4. Full Stack  [Training] for [Cinema Devotion](https://moviesarea.hassaneida.com/)
@@ -64,13 +64,14 @@ Creating website to track prayers and users gaining points for every pray they d
 with leaderboard for all users with thier level and points
 
 **Technologies-Packages used** 
-- [laravel](https://laravel.com/)
-- [Livewire](https://laravel-livewire.com/)
+    - [laravel](https://laravel.com/)
+    - [Livewire](https://laravel-livewire.com/)
 
 ### 6. Full Stack  [Training] for [Covid-19 Tracker](https://covid19tracker.hassaneida.com/)
 SPA website for tracking covid Cases and deaths 
 
 **Technologies-Packages used** 
-- [Vuejs](https://vuejs.org/)
+    - [Vuejs](https://vuejs.org/)
+
 
 ## Technical skills 
